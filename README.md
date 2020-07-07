@@ -1,8 +1,7 @@
 # Hierarchical-imblearn
 ## The Hierarchical Imbalanced Learning Library
 
-This library implemented in Python is an extension of the scikit-learn based library implemented in Python to 
-The Imbalanceness Mulan (IMB-Mulan) is an extension to the well-known Mulan framework (https://github.com/tsoumakas/mulan) with implementations of resampling algorithms previously proposed in the literature.
+This library was implemented in Python only works in datasets in the hierarchical ARFF format.
 
 # Resampling Algorithms
 The following resampling algorithms were implemented in the hierarchical-imblearn:
@@ -12,6 +11,7 @@ The following resampling algorithms were implemented in the hierarchical-imblear
 
 # Examples of use
 The file .... contains codes samples explaining how to use all resampling algorithms implemented.
+You can also access all the hierarchical datasets used in the experiments in the following website: https://sites.google.com/view/hierarchical-imblearn/
 
 # Cite
 If you used hierarchical-imblearn in your research or project, please cite our work:
